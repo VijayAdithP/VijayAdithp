@@ -1,4 +1,4 @@
-# 💫 Hi I'm VijayAdith:
+# 👋 Hi I'm VijayAdith:
 👾 Cross-Platform Mobile App developer trying my best<br>
 🤝 Studying at Computer Science at [Bannari Amman Institute of Tech](https://www.bitsathy.ac.in/)<br>
 💬 Currently learning React Native along with express js for an upcomming project<br>
