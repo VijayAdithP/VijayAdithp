@@ -1,3 +1,5 @@
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6e02b1-d68c-4a6c-8e09-12dee38f5154/deeurrc-0bc07c00-0839-40f2-979f-960e298afebe.jpg/v1/fill/w_1192,h_670,q_70,strp/guts__berserk__wallpaper_by_dartz_by_dartzbeats_deeurrc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzdhNmUwMmIxLWQ2OGMtNGE2Yy04ZTA5LTEyZGVlMzhmNTE1NFwvZGVldXJyYy0wYmMwN2MwMC0wODM5LTQwZjItOTc5Zi05NjBlMjk4YWZlYmUuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.SSjxkAfEnyNkfArIkUG4qq_kzZ1ospDtpKKJ1tEO_eg)](https://github.com/VijayAdithP)
+
 <h1 align="center">Hi 👋, I'm VijayAdith</h1>
 <h3 align="center">A Cross-Platform Mobile Application developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU0eGp6eWNrazVhdmE0c2V1amhxanA5ZzBieDQyY3IxNDluMWk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
