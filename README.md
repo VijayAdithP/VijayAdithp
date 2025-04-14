@@ -27,7 +27,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vijay-adith-p-841b60259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vijay-adith-p-841b60259" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vijay51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vijay51/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vijay51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vijay51/" height="30" width="40" /></a>
 </p>
 
 
