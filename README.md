@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayadithp&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithp" /> </p>
 
-- 🔭 I’m currently working on **SUDOKU-MANIA**
+- 🔭 Just finished working on **SUDOKU-MANIA**
 
 - 💬 Kinda Good in **flutter, firebase, dart**
 
@@ -14,7 +14,7 @@
 
 - 📄 My resume [https://vijayadith-cv.tiiny.site](https://vijayadith-cv.tiiny.site)
 
-- ⚡ Fun fact I read and watch a lot of anime and mainly underated films, you can call me a **filmcel**.
+- ⚡ Fun fact about me, I read a lot of philosophy, watch a lot of underated films and play a **lot** of games.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
